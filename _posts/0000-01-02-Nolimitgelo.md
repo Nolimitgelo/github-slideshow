@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our test slide!"
 ---
-Your text
+Gelo
 Use the left arrow to back!
